@@ -1,3 +1,0 @@
-# testgit
-
-anh em rappp
